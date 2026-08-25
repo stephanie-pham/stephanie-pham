@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stephanie-pham
+<!---- 👋 Hi, I’m @stephanie-pham
 - 👀 I’m interested in learning new skills and applying those skills to projects. 
 - 🌱 I'm an aspiring Data Engineer/Data Scientist. I’m currently learning Python and SQL (on Datacamp and Kaggle) for data visualization and data manipulation.
 - 📊 I am currently building a Health & Fitness Tracker for my CS50 final project. 
