@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Quality Control Systems Analyst moving into **data analytics**. I have 5+ years of experience in logistics, government contracting, and healthcare operations, working with contract and pricing data, cost models, budgets and forecasts, and laboratory data systems. I hold a B.S. in Biological Engineering and a Business Analytics Certification from the University of Georgia.
+I'm a Quality Control Systems Analyst with 5+ years of experience in logistics, government contracting, and healthcare operations. My work spans contract and pricing data, cost models, budgets and forecasts, and laboratory data systems. I hold a B.S. in Biological Engineering and a Business Analytics Certification from the University of Georgia.
 
 ## Performance Highlights
 
