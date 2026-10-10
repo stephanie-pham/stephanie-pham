@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/banner.svg" alt="Stephanie Pham — Quality Control Systems Analyst — Data Analytics" width="100%" />
+  <img src="assets/banner.svg" alt="Stephanie Pham — SQL, Python, R, Excel, Tableau" width="100%" />
 
 </div>
 

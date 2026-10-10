@@ -23,8 +23,7 @@
   <line x1="845" y1="260" x2="1125" y2="260" stroke="#FCA5A5" stroke-width="2" opacity="0.35"/>
 
   <!-- Text -->
-  <rect x="70" y="72" width="6" height="150" rx="3" fill="#F87171"/>
-  <text x="100" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#FFFFFF">Stephanie Pham</text>
-  <text x="102" y="174" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#FECACA">Quality Control Systems Analyst  ·  Data Analytics</text>
-  <text x="102" y="214" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#FCA5A5" letter-spacing="1">SQL  ·  PYTHON  ·  R  ·  EXCEL  ·  TABLEAU</text>
+  <rect x="70" y="90" width="6" height="120" rx="3" fill="#F87171"/>
+  <text x="100" y="152" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF">Stephanie Pham</text>
+  <text x="103" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#FCA5A5" letter-spacing="1.5">SQL  ·  PYTHON  ·  R  ·  EXCEL  ·  TABLEAU</text>
 </svg>
