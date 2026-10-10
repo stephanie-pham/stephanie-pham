@@ -10,7 +10,7 @@
 
 I'm a Quality Control Systems Analyst moving into **data analytics**. I have 5+ years of experience in logistics, government contracting, and healthcare operations, working with contract and pricing data, cost models, budgets and forecasts, and laboratory data systems. I hold a B.S. in Biological Engineering and a Business Analytics Certification from the University of Georgia.
 
-## Core Capabilities
+## Performance Highlights
 
 - **Data Quality Control** — reviewing contract and pricing data for accuracy and resolving issues before execution
 - **Cost Modeling & Estimation** — building cost models for federal proposals and pricing 136–160 quotes a month
@@ -20,7 +20,7 @@ I'm a Quality Control Systems Analyst moving into **data analytics**. I have 5+ 
 - **Process Documentation** — co-authoring SOPs to standardize onboarding and workflows
 - **Stakeholder Collaboration** — coordinating across sales, vendors, technical teams, and leadership
 
-## Background Highlights
+## Proven Results
 
 | | Highlight | Where |
 |---|---|---|
