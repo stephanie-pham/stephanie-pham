@@ -59,4 +59,8 @@ I'm a Quality Control Systems Analyst moving into **data analytics**. I have 5+ 
 ![UGA Business Analytics Certification](https://img.shields.io/badge/Business%20Analytics%20Certification-UGA%202025-B91C1C?style=for-the-badge)
 ![B.S. Biological Engineering](https://img.shields.io/badge/B.S.%20Biological%20Engineering-UGA%202020-7F1D1D?style=for-the-badge)
 
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pham-stephanie/)
+
 ---
